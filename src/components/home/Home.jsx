@@ -90,9 +90,9 @@ function Slider() {
       image: img5,
       thumbnail: Thum5,
       category: "Movies",
-      title: "Harry Potter",
+      title: "Game of Thrones",
       description:
-        "Harry Potter follows a young wizard, Harry, who attends Hogwarts School. He battles the dark wizard Voldemort, learns about his magical heritage, and uncovers his destiny.",
+       "Game of Thrones is a fantasy series about power struggles, betrayal, and battles for the Iron Throne.",
     },
     {
       image: img6,
